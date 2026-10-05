@@ -1,0 +1,8 @@
+# Segredos — NUNCA versionar
+.env
+
+# Artefatos do Python
+__pycache__/
+*.pyc
+venv/
+.venv/
